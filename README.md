@@ -1,6 +1,6 @@
-# React Image Gallery
+# React Pixabay Image Gallery
 
-### This is a React application styles with Tailwind CSS.
+### Simple gallery with images from the Pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
 - Search bar for image rendering
 - Mulitple levels of state
